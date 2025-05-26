@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked_C,Embarked_Q,Embarked_S
+1,0,3,"Braund, Mr. Owen Harris",1,-0.4487118026965578,1,0,A/5 21171,-0.8829899706735684,False,False,True
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",0,0.7478530044942631,1,0,PC 17599,1.9768186608921337,True,False,False
+3,1,3,"Heikkinen, Miss. Laina",0,-0.1495706008988526,0,0,STON/O2. 3101282,-0.8528436120397506,False,False,True
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",0,0.5234971031459841,1,0,113803,1.164729352823541,False,False,True
+5,0,3,"Allen, Mr. William Henry",1,0.5234971031459841,0,0,373450,-0.847260953033488,False,False,True
+6,0,3,"Moran, Mr. James",1,-0.0747853004494263,0,0,330877,-0.8290257556554321,False,True,False
+7,0,1,"McCarthy, Mr. Timothy J",1,1.9444178116850839,0,0,17463,1.1094610286615414,False,False,True
+8,0,3,"Palsson, Master. Gosta Leonard",1,-1.9444178116850839,3,1,349909,-0.26554788458092865,False,False,True
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",0,-0.0747853004494263,0,2,347742,-0.709556852921413,False,False,True
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",0,-1.0469942062919682,1,0,237736,0.1362159865273657,True,False,False
